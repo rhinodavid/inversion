@@ -1,5 +1,5 @@
 ## Inversion
-> An application the number of inversions in a list of integers.
+> An application to count the number of inversions in a list of integers.
 
 _What is an inversion?_ An inversion is when two elements in the array are not in
 sorted order, or more formally, `a[i]` and `a[j]` form an inversion if
